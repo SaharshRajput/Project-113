@@ -1,0 +1,11 @@
+.btn-primary{
+    margin-left: 70px;
+    font-size: 25px;
+}
+.btn-success{
+    margin-left: 70px;
+    font-size: 15px;
+}
+canvas{
+    border: dashed;
+}
